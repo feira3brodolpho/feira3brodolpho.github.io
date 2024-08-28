@@ -1,0 +1,4 @@
+LEIA-ME:
+
+- Caso o navegador não apresente suporte aos vídeos, recomendo que aperte no link (tive q mandar pro youtube pq o github não exportava arquivo com + de 25mb)
+- trabalho feito SOZINHO (incompetencia do gustavo e john/falta de proatividade que ainda me botaram nessa sem eu saber fazer site direito)
